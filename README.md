@@ -51,13 +51,6 @@ Check system information:
 
 <img width="710" height="556" alt="image" src="https://github.com/user-attachments/assets/ac9e2a7d-34ed-4af3-a583-e5044ba2a87f" />
 
-
-
-
-## 📌 Overview
-
-This project documents hands-on penetration testing practice conducted against **Metasploitable 1** and **Metasploitable 2** virtual machines within a controlled lab environment. The objective of this lab is to demonstrate core penetration testing methodologies, including reconnaissance, enumeration, post-exploitation analysis, and privilege escalation planning.
-
 All testing was performed **ethically and legally** on intentionally vulnerable machines for **educational and portfolio purposes only**.
 
 ---
